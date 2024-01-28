@@ -1,2 +1,4 @@
-`You can access my portofolio in aulyayarzuki.tech`
-`For new_feature branch still under development to update my website`
+# You can access my portofolio in ${{\color{Blue}\Huge{\textsf{  aulyayarzuki.tech \}}}}\$
+```
+For new_feature branch still under development to update my website
+```
